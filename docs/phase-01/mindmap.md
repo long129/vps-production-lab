@@ -59,3 +59,5 @@ mindmap
       Missing run sshd
       Authentication policy
       Reboot verification
+
+```
